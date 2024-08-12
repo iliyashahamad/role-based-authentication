@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "id": "iliyash",
+      "name": "ahamad",
+      "password": "cetpa",
+      "email": "iliyash@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "amit123",
+      "name": "Amit Chaubey",
+      "password": "cetpa",
+      "email": "amit@gmail.com",
+      "gender": "male",
+      "role": "technician",
+      "isActive": true
+    },
+    {
+      "id": "a",
+      "name": "a",
+      "password": "a",
+      "email": "a@gmail.com",
+      "gender": "male",
+      "role": "staff",
+      "isActive": true
+    },
+    {
+      "id": "ia",
+      "name": "ia",
+      "password": "ia",
+      "email": "ia@yahoo.com",
+      "gender": "male",
+      "role": "technician",
+      "isActive": true
+    },
+    {
+      "id": "amit123",
+      "name": "a",
+      "password": "xetpa",
+      "email": "amit@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "ia",
+      "name": "ia",
+      "password": "ia",
+      "email": "ia@yahoo.com",
+      "gender": "male",
+      "role": "",
+      "isActive": false
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "staff",
+      "id": "b575"
+    },
+    {
+      "code": "user",
+      "name": "user",
+      "id": "b165"
+    },
+    {
+      "code": "tech",
+      "name": "technician",
+      "id": "b394"
+    }
+  ],
+  "customer": [
+    {
+      "id": "001",
+      "firstname": "ILIYASH ",
+      "lastname": "SHEIKH",
+      "address": "rampur",
+      "phone": "8507579010"
+    }
+  ]
+}
